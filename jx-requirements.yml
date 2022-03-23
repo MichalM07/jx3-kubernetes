@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "dataocean.agora.pl"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
